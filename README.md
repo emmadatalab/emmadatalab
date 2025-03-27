@@ -1,6 +1,6 @@
 # Hi, I'm Emma
 
-I'm a data analyst with a background in SEO and a strong interest in financial markets and crypto. Over time, I've transitioned into solving real-world problems in brokers, exchanges, and fintech products through data.
+I'm a data analyst with a strong interest in financial markets and crypto. Over time, I've transitioned into solving real-world problems in brokers, exchanges, and fintech products through data.
 
 My focus is on analyzing trading behavior, user activity, and performance metrics using SQL, Python, and BI tools. I apply exploratory data analysis, technical analysis, and time-series modeling to uncover insights and support smarter decision-making.
 
