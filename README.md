@@ -6,11 +6,5 @@ My focus is on analyzing trading behavior, user activity, and performance metric
 
 Currently exploring machine learning, blockchain data, and building dashboards for trading platforms.
 
-## Skills & Tools
-- SQL, Python (Pandas, NumPy, Matplotlib)
-- Power BI, Looker Studio, Excel
-- EDA, Technical Analysis, Financial Data
-- Crypto, Blockchain (in progress)
-
 ## Let's Connect
 Always open to connecting with professionals in fintech, data, and crypto to learn and collaborate.
